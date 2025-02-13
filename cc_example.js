@@ -11,6 +11,6 @@ console.log(`Projected Savings: $${calculateSavings(5, 5000).toFixed(2)}`); // E
 
 // Task 3:
 
-function add(x, y) {
-    return x + y;
+function sub(x, y) {
+    return x - y;
 }
